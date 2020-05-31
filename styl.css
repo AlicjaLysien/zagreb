@@ -1,0 +1,121 @@
+/* CSS Document */
+
+a
+{
+color: rgb(125,17,0); 
+text-align: center;
+
+}
+
+.logo
+{
+image-align: center;
+}
+
+.hornicast
+{
+background-color: rgb(22,0,86);
+}
+
+.linki
+{
+ background-color: rgb(245, 223, 3);
+ font-size: x-large;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bolder;
+   font-family: Calibri;
+}
+
+.srodek
+{
+ background-color: white;
+}
+
+.citace
+{
+ background-color: rgb(22,0,86);
+ color: white;
+ text-align: center;
+ font-family: Constantia;
+     font-size: x-large
+}
+
+h1
+{
+font-size: xx-large;
+font-family: Calibri;
+}
+
+h2
+{
+font-size:x-large;
+text-align: left;
+font-family: Calibri;
+}
+
+h3
+{
+font-size:large;
+text-align: left;
+font-family: Calibri;
+}
+
+ol
+{
+font-size: x-small;
+ font-family: Constantia;
+}
+ul
+{
+font-size: large;
+ font-family: Constantia;
+
+}
+p 
+{
+font-size: large;
+ font-family: Constantia;
+}
+
+table
+{
+font-size:large;
+text-align: center;
+ font-family: Constantia;
+}
+
+.dopor
+ {
+ vertical-align: middle;
+ width:100%;
+ }
+
+ .nabidka
+ {
+ height:200px
+ }
+
+.pol1 {
+  width: 40%;
+ float: left;
+
+  }
+  
+  .pol2 {
+  width: 60%;
+  float: left;
+   height: 400px
+  }
+  
+  .muzeum
+  {
+  text-align: justify;
+  width: 80%;
+  }
+  
+.text
+{
+width:90%;
+text-align:justify;
+}
